@@ -3,7 +3,7 @@ import Newsletter from './Footer/Newsletter';
 import FooterOverlay from './Footer/FooterOverlay';
 import MenuItem from './Menuitem/MenuItem';
 import Navbar from './Navbar/Navbar';
-import NavigationDots from './NavigationDots';
+
 
 export {
   SubHeading,
@@ -11,5 +11,4 @@ export {
   FooterOverlay,
   MenuItem,
   Navbar,
-  NavigationDots,
 };
