@@ -4,7 +4,7 @@
     justify-content: space-between;
     align-items: center;
     background: rgb(12, 12, 12);  
-    
+    z-index: 999;
     padding: 1rem 2rem;
     position: fixed;
 }
